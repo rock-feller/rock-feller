@@ -1,5 +1,5 @@
 - 👋 Hi, Rock here.( @amRockfeller)
-- 👀 Data Scientist at [Morae Global](https://www.moraeglobal.com/).
+- 👀 Data Scientist at [Morae](https://www.moraeglobal.com/).
 - 📫 Interested in LLM Applications and building Machine Learning models
 - 🌱 Defending my PhD in Applied Maths soon (Deep Learning for forecasting Time Series) ...
 - 💞️ Reach out for collaboration on projects that  involve building AI products (LLM Apps) and ... also teaching.
